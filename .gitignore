@@ -1,0 +1,5 @@
+
+*.ppt
+*.pdf
+*.jar
+node_modules/
